@@ -56,23 +56,11 @@
 ```
 
 ### 支持网址
-静态站见仓库 [`docs/`](../docs/)。GitHub Pages 发布后填入实际地址，例如：
-
-```
-https://<GitHub用户名>.github.io/<仓库名>/
-```
-
-示例（仓库名 `LightMeter`、用户 `watsonkin`）：
 ```
 https://watsonkin.github.io/LightMeter/
 ```
 
 ### 隐私政策网址
-```
-https://<GitHub用户名>.github.io/<仓库名>/privacy.html
-```
-
-示例：
 ```
 https://watsonkin.github.io/LightMeter/privacy.html
 ```
@@ -235,7 +223,8 @@ Thank you,
 
 - `[填 App Store Connect 里的 Apple ID 数字]`  
 - `[填你的 Team ID]`（会员中心或 Xcode 签名里可见）  
-- 支持网址 / 隐私政策网址（Pages 发布后的真实 URL）  
 - 法定姓名（ICP 模板用）  
-- 联系邮箱已定为 `watstudio@icloud.com`（见 `docs/`）  
+- 支持 / 隐私 URL 已发布（见上文）  
+- 联系邮箱：`watstudio@icloud.com`  
+
 

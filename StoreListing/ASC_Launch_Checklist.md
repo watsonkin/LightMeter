@@ -16,15 +16,12 @@
 
 ## B. 支持页 / 隐私页（GitHub Pages）
 
-- [ ] 将仓库推到 GitHub  
-- [ ] 改 `docs/index.html`、`docs/privacy.html` 里的联系邮箱为真实邮箱  
-- [ ] 仓库 Settings → Pages → Branch `main` + Folder **`/docs`**  
-- [ ] 浏览器确认可打开：
-  - Support：`https://<user>.github.io/<repo>/`
-  - Privacy：`https://<user>.github.io/<repo>/privacy.html`
-- [ ] 把最终 URL 填进 ASC，并更新 [`ASC_China_drafts.md`](ASC_China_drafts.md) 占位符  
-
-说明见 [`../docs/README.md`](../docs/README.md)。
+- [x] 仓库已推送：https://github.com/watsonkin/LightMeter  
+- [x] 联系邮箱：`watstudio@icloud.com`  
+- [x] Pages：`main` + `/docs` 已启用  
+- [x] Support：https://watsonkin.github.io/LightMeter/  
+- [x] Privacy：https://watsonkin.github.io/LightMeter/privacy.html  
+- [ ] 把上述 URL 填进 ASC 元数据  
 
 ---
 
