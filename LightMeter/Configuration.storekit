@@ -1,0 +1,86 @@
+{
+  "identifier" : "LightMeterTips",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A0000000000000001",
+      "localizations" : [
+        {
+          "description" : "Optional tip to support LightMeter development. Does not unlock features.",
+          "displayName" : "Tip $0.99",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "自愿打赏，支持测光表的持续开发。不会解锁任何功能。",
+          "displayName" : "打赏 $0.99",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.watstudio.LightMeter.tip.tier1",
+      "referenceName" : "Tip Tier 1 – 0.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "A0000000000000002",
+      "localizations" : [
+        {
+          "description" : "Optional tip to support LightMeter development. Does not unlock features.",
+          "displayName" : "Tip $2.99",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "自愿打赏，支持测光表的持续开发。不会解锁任何功能。",
+          "displayName" : "打赏 $2.99",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.watstudio.LightMeter.tip.tier2",
+      "referenceName" : "Tip Tier 2 – 2.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "5.99",
+      "familyShareable" : false,
+      "internalID" : "A0000000000000003",
+      "localizations" : [
+        {
+          "description" : "Optional tip to support LightMeter development. Does not unlock features.",
+          "displayName" : "Tip $5.99",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "自愿打赏，支持测光表的持续开发。不会解锁任何功能。",
+          "displayName" : "打赏 $5.99",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.watstudio.LightMeter.tip.tier3",
+      "referenceName" : "Tip Tier 3 – 5.99",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "0",
+    "_developerTeamID" : "47X29NB898",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 0,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

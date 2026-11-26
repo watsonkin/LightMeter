@@ -1,0 +1,126 @@
+:root {
+  --bg: #100e0c;
+  --fg: #f5f0e6;
+  --muted: #a89f90;
+  --amber: #e8a04a;
+  --line: rgba(232, 160, 74, 0.35);
+  --card: rgba(255, 255, 255, 0.05);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Songti SC", "Noto Serif SC", "Source Han Serif SC", Georgia, "Times New Roman", serif;
+  background:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(232, 160, 74, 0.12), transparent 55%),
+    var(--bg);
+  color: var(--fg);
+  line-height: 1.65;
+}
+
+a {
+  color: var(--amber);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.wrap {
+  width: min(720px, calc(100% - 2.5rem));
+  margin: 0 auto;
+  padding: 2.75rem 0 4rem;
+}
+
+header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.brand {
+  font-size: 1.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  margin: 0 0 0.35rem;
+}
+
+.tag {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+
+nav {
+  margin-top: 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.9rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+h1 {
+  font-size: 1.45rem;
+  font-weight: 600;
+  margin: 0 0 1rem;
+}
+
+h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 2rem 0 0.65rem;
+  color: var(--amber);
+}
+
+p,
+li {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Segoe UI", sans-serif;
+  font-size: 0.98rem;
+  color: var(--fg);
+}
+
+.muted {
+  color: var(--muted);
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+li {
+  margin: 0.35rem 0;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 14px;
+  padding: 1.1rem 1.2rem;
+  margin: 1rem 0;
+}
+
+.lang {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--line);
+}
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
