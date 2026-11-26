@@ -18,9 +18,9 @@
 3. 保存后等待 1–2 分钟，打开：
    - Support：`https://<GitHub用户名>.github.io/<仓库名>/`
    - Privacy：`https://<GitHub用户名>.github.io/<仓库名>/privacy.html`
-4. 若仓库名是 `LightMeter`、用户名是 `watstudio`，则为：
-   - `https://watstudio.github.io/LightMeter/`
-   - `https://watstudio.github.io/LightMeter/privacy.html`
+4. 若仓库名是 `LightMeter`、用户名是 `watsonkin`，则为：
+   - `https://watsonkin.github.io/LightMeter/`
+   - `https://watsonkin.github.io/LightMeter/privacy.html`
 5. 把最终 URL 填进 App Store Connect，并回填 `StoreListing/ASC_China_drafts.md`。
 
 ## 联系邮箱

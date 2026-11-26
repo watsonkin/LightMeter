@@ -62,9 +62,9 @@
 https://<GitHub用户名>.github.io/<仓库名>/
 ```
 
-示例（仓库名 `LightMeter`、用户 `watstudio`）：
+示例（仓库名 `LightMeter`、用户 `watsonkin`）：
 ```
-https://watstudio.github.io/LightMeter/
+https://watsonkin.github.io/LightMeter/
 ```
 
 ### 隐私政策网址
@@ -74,7 +74,7 @@ https://<GitHub用户名>.github.io/<仓库名>/privacy.html
 
 示例：
 ```
-https://watstudio.github.io/LightMeter/privacy.html
+https://watsonkin.github.io/LightMeter/privacy.html
 ```
 
 正文已写在 `docs/privacy.html`（本地测光、无账号、无上传、无广告/分析；可选 Apple IAP 打赏由 Apple 处理）。
